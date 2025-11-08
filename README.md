@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
