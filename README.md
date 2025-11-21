@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0001-two-sum) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -52,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1930-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
