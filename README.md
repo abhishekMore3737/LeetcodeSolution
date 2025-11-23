@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Bit Manipulation
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Prefix Sum
 |  |
 | ------- |
