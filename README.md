@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0001-two-sum) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
@@ -69,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 <!---LeetCode Topics End-->
