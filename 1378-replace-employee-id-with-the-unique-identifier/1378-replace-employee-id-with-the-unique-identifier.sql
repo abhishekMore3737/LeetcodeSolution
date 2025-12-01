@@ -1,0 +1,4 @@
+# Write your MySQL query statement below
+ SELECT unique_id AS unique_id, name
+ FROM Employees 
+ LEFT JOIN EmployeeUNI  using(id);
