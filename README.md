@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0088-merge-sorted-array) |
 | [0474-ones-and-zeroes](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0088-merge-sorted-array) |
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2141-maximum-running-time-of-n-computers) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
