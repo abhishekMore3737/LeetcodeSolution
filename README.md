@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1590-make-sum-divisible-by-p](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1590-make-sum-divisible-by-p) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2288-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
