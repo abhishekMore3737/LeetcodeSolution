@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0759-set-intersection-size-at-least-two) |
+| [0944-delete-columns-to-make-sorted](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1590-make-sum-divisible-by-p](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1590-make-sum-divisible-by-p) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0944-delete-columns-to-make-sorted) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2211-count-collisions-on-a-road) |
 ## Sorting
