@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0136-single-number) |
 | [0474-ones-and-zeroes](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0474-ones-and-zeroes) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0840-magic-squares-in-grid) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1925-count-square-sum-triples) |
