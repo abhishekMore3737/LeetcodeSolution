@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1390-four-divisors](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1390-four-divisors) |
 | [1590-make-sum-divisible-by-p](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1590-make-sum-divisible-by-p) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
