@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1590-make-sum-divisible-by-p](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1590-make-sum-divisible-by-p) |
 | [1975-maximum-matrix-sum](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Bit Manipulation
