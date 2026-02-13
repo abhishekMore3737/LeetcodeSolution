@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3531-count-covered-buildings) |
+| [3714-longest-balanced-substring-ii](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3714-longest-balanced-substring-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3714-longest-balanced-substring-ii](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3714-longest-balanced-substring-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/3714-longest-balanced-substring-ii) |
 ## Database
 |  |
 | ------- |
