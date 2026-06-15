@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/0088-merge-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhishekMore3737/LeetcodeSolution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
